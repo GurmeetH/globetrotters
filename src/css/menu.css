@@ -1,0 +1,8 @@
+#menu {
+    position: absolute;
+    height: 1em;
+    width: 1em;
+    background-color: blueviolet;
+    color: red;
+    z-index: 1;
+}
